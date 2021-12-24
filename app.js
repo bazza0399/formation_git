@@ -9,3 +9,4 @@ request({url:url, json : true},(error,response)=>{
 		console.log(response.body);
 	}
 } )
+console.log('test2')
